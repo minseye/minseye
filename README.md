@@ -15,7 +15,7 @@
 <br/>
 
 <span>
-  <p><b>my SNS</b></p>
+  <p><b>my SNS 🙌</b></p>
   <a href="https://velog.io/@mnnnj"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 </span>
 
@@ -24,7 +24,7 @@
 <br/>
 <br/>
 <span>
-  <p><b>Algorithm solving</b></p>
+  <p><b>Algorithm solving 💡</b></p>
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={alswoscott})](https://solved.ac/{alswoscott}) 
 </span>
 </div>
