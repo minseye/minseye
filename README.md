@@ -1,4 +1,3 @@
-## Hi there 👋
 <h2 align="center"> Hi there 👋 </h1>
 <div align=center>
 <span>
@@ -16,8 +15,8 @@
 <br/>
 
 <span>
-  <p>SNS</p>
-  <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+  <p>my SNS</p>
+  <a href="https://velog.io/@mnnnj"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 </span>
 </div>
 
@@ -26,9 +25,7 @@
 <br/>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={alswoscott})](https://solved.ac/{alswoscott}) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseye&show_icons=true&theme=radical)
-<br/>
-<br/>
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={alswoscott})](https://solved.ac/{alswoscott}) 
 <br/>
 
 
