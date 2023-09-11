@@ -1,4 +1,4 @@
-<h2 align="center> Hi there 👋 </h2>
+## <h2 align="center> Hi there 👋 </h2>
 <div align=center>
 <span>
   <p><b>Skills that I have 🤓</b></p>
