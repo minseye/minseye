@@ -1,6 +1,14 @@
 ### Hi there 👋
+<p>skills! 🤓</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=Python&logoColor=white"/>
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=alswoscott)](https://solved.ac/alswoscott)<br/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+
 <!--
 **minseye/minseye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
