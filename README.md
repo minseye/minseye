@@ -23,8 +23,9 @@
 <br/>
 <br/>
 <span>
-  <p><b>Algorithm solving 💡</b></p>
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={alswoscott})](https://solved.ac/{alswoscott}) 
+  <p><b>Algorithm problem solving 💡</b></p>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=alswoscott)](https://solved.ac/alswoscott)
 </span>
 </div>
 
