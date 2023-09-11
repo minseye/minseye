@@ -1,11 +1,18 @@
 ### Hi there 👋
-<p>skills! 🤓</p>
+
 <span>
+  <p>skills 🤓</p>
+  <br/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</span>
+<span>
+  <p>SNS</p>
+  <br/>
+  <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
 </span>
 <br/>
 <br/>
@@ -15,7 +22,7 @@
 <br/>
 <br/>
 
-[![minseye's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseye)](https://github.com/minseye/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseye&show_icons=true&theme=radical)
 <br/>
 <br/>
 
