@@ -7,12 +7,18 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=Python&logoColor=white"/>
 </span>
-  
-
+<br/>
+<br/>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={alswoscott})](https://solved.ac/{alswoscott})
 <br/>
+<br/>
+
+[![minseye's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseye)](https://github.com/minseye/github-readme-stats)
+<br/>
+<br/>
+
 
 
 <!--
