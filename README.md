@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<div align=center>
 <span>
   <p><b>Skills that I have 🤓</b></p>
   <br/>
@@ -9,20 +9,24 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </span>
+</div>
+
+<br/>
+<br/>
+<br/>
+
 <span>
   <p>SNS</p>
-  <br/>
   <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
 </span>
+
+<br/>
 <br/>
 <br/>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={alswoscott})](https://solved.ac/{alswoscott})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={alswoscott})](https://solved.ac/{alswoscott}) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseye&show_icons=true&theme=radical)
 <br/>
-<br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseye&show_icons=true&theme=radical)
 <br/>
 <br/>
 
