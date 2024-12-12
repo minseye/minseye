@@ -1,5 +1,5 @@
 <h2 align="center"> Hi there 👋 </h1>
-<div align=center>
+<!-- <div align=center>
 <span>
   <p><b>Skills that I study and use</b></p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
@@ -30,7 +30,7 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=alswoscott)](https://solved.ac/alswoscott)
 </span>
 </div>
-
+ -->
 
 <!--
 **minseye/minseye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
